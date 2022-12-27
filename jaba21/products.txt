@@ -1,0 +1,5 @@
+bread 23 23.32
+milk 23 23.32
+eggs 23 23.32
+apple 23 23.32
+cucumber 23 23.32
